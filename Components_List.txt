@@ -1,0 +1,12 @@
+# 🧰 Components Needed for Obstacle Avoiding Car
+
+1. Arduino UNO or Nano
+2. Ultrasonic Sensor (HC-SR04)
+3. L298N Motor Driver Module
+4. 2x DC Motors with wheels
+5. Chassis (Car frame)
+6. 9V or 12V Battery with connector
+7. Jumper Wires and Breadboard (optional)
+8. Castor wheel (for front support)
+9. Switch (to turn ON/OFF)
+10. Screws, Nuts, Double tape/Glue

@@ -1,0 +1,22 @@
+# 🔌 Circuit Connections
+
+- **Ultrasonic Sensor HC-SR04**
+  - VCC -> 5V on Arduino
+  - GND -> GND on Arduino
+  - TRIG -> Pin 12
+  - ECHO -> Pin 11
+
+- **L298N Motor Driver**
+  - IN1 -> Pin 8
+  - IN2 -> Pin 7
+  - IN3 -> Pin 6
+  - IN4 -> Pin 5
+  - ENA -> Pin 9
+  - ENB -> Pin 10
+  - VCC -> Battery +ve
+  - GND -> Battery -ve & Arduino GND
+  - 5V -> Arduino 5V (if jumper is removed)
+
+- **DC Motors**
+  - Motor A -> Output A on L298N
+  - Motor B -> Output B on L298N
